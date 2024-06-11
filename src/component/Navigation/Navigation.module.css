@@ -1,0 +1,18 @@
+.navg{
+    padding: 0 10px;
+    display: flex;
+    height:72px;
+    justify-content: space-between;
+    align-items: center;
+  
+  }
+  .navg  ul{
+    font-weight: 600;
+    display:flex;
+    list-style: none;
+    gap: 30px;
+  }
+  .navg  img{
+    height: 70px;
+  }
+  

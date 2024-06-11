@@ -1,0 +1,26 @@
+.primaryButton{
+    padding: 18px 10px;
+    background-color: black;  
+    color:white;
+    min-width: 220px; 
+    border-radius: 5px;
+    display:flex;
+    align-items: center; 
+    gap:10px;
+    justify-content: center;
+    cursor: pointer;
+}
+.secondaryButton{
+    padding: 18px 10px;
+    border: 1px solid black; 
+    color:black;
+    min-width: 220px; 
+    border-radius: 5px;
+    display:flex;
+    align-items: center; 
+    gap:10px;
+    justify-content: center;
+    background-color: white;
+    width:100%;
+    cursor: pointer;
+}
